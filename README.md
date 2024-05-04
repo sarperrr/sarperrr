@@ -1,6 +1,6 @@
 
 
- # 🖖 Hey there! I'm Sarper. <img align="right" src="https://komarev.com/ghpvc/?username=yamanf&style=flat-square&color=blueviolet"><br>
+ # 🖖 Hey there! I'm Sarper.
 
 <h2 align="center">I'm a Data Engineer!</h2>
 <div>
