@@ -11,7 +11,7 @@
 
 ## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&style=flat-square&logo=python&logoColor=blue)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&style=flat-square&logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&style=flat-square&logo=firebase)
