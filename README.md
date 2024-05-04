@@ -5,7 +5,7 @@
 <h2 align="center">I'm a Data Engineer!</h2>
 <div>
 <br>
-<a href="https://www.linkedin.com/in/sarper-karabas/"><img src="https://img.shields.io/badge/-Furkan_Yaman-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sarper-karabas/"><img src="https://img.shields.io/badge/-Sarper_Karabas-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:sarperkarabas@hotmail.com"><img src="https://img.shields.io/badge/-Contact_me_via_Mail-c14438?style=flat&logo=Mail&logoColor=white&color=BB001B"></a>
 </div>
 <br>
