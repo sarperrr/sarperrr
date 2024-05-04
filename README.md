@@ -1,4 +1,3 @@
-<img src="https://i.postimg.cc/BnwG7D0B/68747470733a2f2f6234646361743430342e6769746875622e696f2f696d616765732f74776f2e676966.gif" width="100%"/>
 
 
  # 🖖 Hey there! I'm Sarper. <img align="right" src="https://komarev.com/ghpvc/?username=yamanf&style=flat-square&color=blueviolet"><br>
@@ -12,6 +11,7 @@
 
 ## ⚡ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&style=flat-square&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&style=flat-square&logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&style=flat-square&logo=firebase)
